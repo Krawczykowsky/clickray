@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Snake</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            
+            height: 100vh;
+            background-color: lightgray;
+        }
+        canvas{
+            border: 25px solid white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%)
+        }
+        .wrap{
+            text-align: center;
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <h1>Score:</h1>
+        <h1 id="score"></h1>
+    </div>
+    <canvas></canvas>
+
+    
+    <script src="snake.js"></script>
+</body>
+</html>

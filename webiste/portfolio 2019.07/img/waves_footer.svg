@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="129" viewBox="0 0 1200 129">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="502.5" y1="111" x2="502.5" y2="-12.031" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f27e93"/>
+      <stop offset="1" stop-color="#eef26b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="512.5" y1="20.969" x2="512.5" y2="144" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Kształt_1_kopia" data-name="Kształt 1 kopia" class="cls-1" d="M-177.468,19.7S-109.63-52.33-17,20.7s133.94,26.878,185.862,7.023S306.5-17.419,348.631,20.7s190.388,43.157,235.628,9.03S726.444-3.121,769.1,37.758s145.472,37.21,183.831,6.02S1093.02,0.509,1127.62,20.7s88.36,48.159,88.36,48.159l1.02,35.116L-203.875,111-212,42.775Z"/>
+  <path id="Kształt_1_kopia_2" data-name="Kształt 1 kopia 2" class="cls-2" d="M-176.985,52.7s68.788-72.029,162.716,1,135.815,26.878,188.463,7.023S313.755,15.581,356.478,53.7,549.53,96.859,595.4,62.732s144.176-32.852,187.433,8.026,147.508,37.21,186.4,6.02S1111.29,33.509,1146.37,53.7s89.6,48.159,89.6,48.159l1.03,35.116L-203.761,144-212,75.775Z"/>
+</svg>
